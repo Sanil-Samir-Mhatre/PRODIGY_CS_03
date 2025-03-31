@@ -1,11 +1,8 @@
 # PRODIGY_CS_03
 
-# Password Complexity Checker :
+# Password Complexity Checker 
 This Tkinter-based password complexity checker assesses password strength, provides feedback, displays a progress bar, and offers options to show/hide the password, copy it to the clipboard, and refresh the input.
 
-# Password Complexity Checker
-
-A Python Tkinter application that evaluates the strength of a password and provides feedback. It features a live strength checker, a progress bar, and options to show/hide the password, copy it to the clipboard, and reset the input fields.
 
 ## Features
 - **Password Strength Assessment:** Evaluates password strength based on length, uppercase letters, lowercase letters, digits, and special characters.
